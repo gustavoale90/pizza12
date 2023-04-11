@@ -8,10 +8,10 @@ body{
     width: 20px;
 }
 ::-webkit-scrollbar-track{
-    background: white;
+    background:#FFFFFF;
 }
 ::-webkit-scrollbar-thumb{
-    background:crimson ;
+    background:#dc143c;
 }
 
 
